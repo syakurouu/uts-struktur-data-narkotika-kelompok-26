@@ -1,1 +1,14 @@
 case_id,field_name,value,source_file,source_page,extractor,reviewer,status
+P001,nomorPerkara,648/Pid.B/2026/PN Jkt.Brt,putusan_001.pdf,1,Muhammad Abdan Syakura Lukman,Muhammad Rabil Keano Azariu,draft
+P001,pengadilan,Pengadilan Negeri Jakarta Barat,putusan_001.pdf,1,Muhammad Abdan Syakura Lukman,Muhammad Rabil Keano Azariu,draft
+P001,tanggalPutusan,2026-09-22,putusan_001.pdf,20,Muhammad Abdan Syakura Lukman,Muhammad Rabil Keano Azariu,draft
+P001,jenisNarkotika,Sabu (metamfetamina) Golongan I,putusan_001.pdf,7,Muhammad Abdan Syakura Lukman,Muhammad Rabil Keano Azariu,draft
+P001,beratBarangBuktiGram,0.8417,putusan_001.pdf,16,Muhammad Abdan Syakura Lukman,Muhammad Rabil Keano Azariu,draft
+P001,pasalDakwaan,Pasal 114 ayat (1) UU 35/2009; Pasal 609 ayat (1) huruf a UU 1/2023,putusan_001.pdf,6-7,Muhammad Abdan Syakura Lukman,Muhammad Rabil Keano Azariu,draft
+P001,pasalTerbukti,Pasal 114 ayat (1) UU 35/2009,putusan_001.pdf,18,Muhammad Abdan Syakura Lukman,Muhammad Rabil Keano Azariu,draft
+P001,tuntutanBulan,72,putusan_001.pdf,2,Muhammad Abdan Syakura Lukman,Muhammad Rabil Keano Azariu,draft
+P001,vonisBulan,72,putusan_001.pdf,20,Muhammad Abdan Syakura Lukman,Muhammad Rabil Keano Azariu,draft
+P001,dendaRupiah,500000000,putusan_001.pdf,20,Muhammad Abdan Syakura Lukman,Muhammad Rabil Keano Azariu,draft
+P001,barangBukti,"Sabu 0,8417 g netto dalam kemasan permen; 1 handphone; uang tunai Rp1.000.000,00",putusan_001.pdf,20,Muhammad Abdan Syakura Lukman,Muhammad Rabil Keano Azariu,draft
+P001,keadaanMemberatkan,Bertentangan dengan program pemerintah memberantas narkotika; pernah dihukum kasus narkotika,putusan_001.pdf,19,Muhammad Abdan Syakura Lukman,Muhammad Rabil Keano Azariu,draft
+P001,keadaanMeringankan,"Mengakui, menyesali, dan berjanji tidak mengulangi perbuatan",putusan_001.pdf,19,Muhammad Abdan Syakura Lukman,Muhammad Rabil Keano Azariu,draft
